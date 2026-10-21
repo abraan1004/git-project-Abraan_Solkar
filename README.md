@@ -13,3 +13,7 @@ I am a student at ADYPU,currently learning Git and Github
 ##Contact:
 -Email: abraansolkar3@gmail.com
 
+##Hobbies:
+-F1
+-Video Games
+
